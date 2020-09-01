@@ -1,2 +1,2 @@
 # graphics
-Portfolio of scripts pertaining to graphics (originals, tutorials, mathematics, etc.).
+Portfolio of scripts pertaining to machine learning & graphics (originals, tutorials, mathematics, etc.).
